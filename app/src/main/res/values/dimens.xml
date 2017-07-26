@@ -1,0 +1,30 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="item_offset">10dp</dimen>
+    <dimen name="detail_backdrop_height">250dp</dimen>
+    <dimen name="backdrop_title">30dp</dimen>
+    <dimen name="backdrop_subtitle">18dp</dimen>
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="card_film_radius">0dp</dimen>
+    <dimen name="film_cover_height">220dp</dimen>
+    <dimen name="film_title_padding">10dp</dimen>
+    <dimen name="film_title">15dp</dimen>
+    <dimen name="films_ep_padding_bottom">5dp</dimen>
+    <dimen name="films_ep">12dp</dimen>
+    <dimen name="card_height">304dp</dimen>
+    <dimen name="md_keylines">16dp</dimen>
+    <dimen name="tile_padding">8dp</dimen>
+    <dimen name="tile_height">160dp</dimen>
+    <dimen name="app_bar_height">320dp</dimen>
+    <dimen name="article_keylines">12dp</dimen>
+    <dimen name="avator_size">40dp</dimen>
+    <dimen name="card_title_height">40dp</dimen>
+    <dimen name="article_titles">20sp</dimen>
+    <dimen name="cards_button_width">48dp</dimen>
+    <dimen name="cards_button_height">48dp</dimen>
+    <dimen name="article_subheading">16sp</dimen>
+    <dimen name="card_image_height">200dp</dimen>
+    <dimen name="list_body">14sp</dimen>
+    <dimen name="navheader_height">222dp</dimen>
+</resources>
